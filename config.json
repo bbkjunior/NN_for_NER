@@ -1,0 +1,10 @@
+{
+  "train_path": "./data/eng.train",
+  "dev_path": "./data/eng.testa",
+  "test_path": "./data/eng.testb",
+  "word_dim": 100,
+  "dropout": 0.5,
+  "model_path": "./models/my_model",
+  "epoch": 5,
+  "gradient_clip": 5.0
+}
